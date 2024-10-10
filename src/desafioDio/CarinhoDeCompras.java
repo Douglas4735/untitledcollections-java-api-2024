@@ -39,6 +39,7 @@ public class CarinhoDeCompras {
         carinhoDeCompras.adicionarItem("manteiga",32.50,2);
         carinhoDeCompras.adicionarItem("gelatina",2.50,5);
         carinhoDeCompras.removerItem("manteiga");
+
         System.out.println(carinhoDeCompras.calcularValorTotal());
 
 
