@@ -41,10 +41,6 @@ public class OrdenacaoPessoa {
 
 
 
-
-
-
-
 class ComparatorPorAltura implements Comparator<Pessoa>{
 
     @Override
