@@ -27,9 +27,9 @@ public class OrdenacaoPessoa {
 
     public static void main(String[] args) {
         OrdenacaoPessoa ordenacaoPessoas = new OrdenacaoPessoa();
-        ordenacaoPessoas.adicionarPessoa("douglas",33,1.70);
-        ordenacaoPessoas.adicionarPessoa("fernanda",26,1.50);
-        ordenacaoPessoas.adicionarPessoa("ester",6,1.10);
+        ordenacaoPessoas.adicionarPessoa("Nome 1",33,1.70);
+        ordenacaoPessoas.adicionarPessoa("Nome 2",26,1.50);
+        ordenacaoPessoas.adicionarPessoa("Nome 3",6,1.10);
 
 
         System.out.println(ordenacaoPessoas.ordenarPorIdade());
